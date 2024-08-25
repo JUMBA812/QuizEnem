@@ -1,0 +1,249 @@
+Andorra,https://flagcdn.com/ad.svg
+Emirados Árabes Unidos,https://flagcdn.com/ae.svg
+Afeganistão,https://flagcdn.com/af.svg
+Antígua e Barbuda,https://flagcdn.com/ag.svg
+Anguila,https://flagcdn.com/ai.svg
+Albânia,https://flagcdn.com/al.svg
+Armênia,https://flagcdn.com/am.svg
+Angola,https://flagcdn.com/ao.svg
+Antártida,https://flagcdn.com/aq.svg,Antártica
+Argentina,https://flagcdn.com/ar.svg
+Samoa Americana,https://flagcdn.com/as.svg
+Áustria,https://flagcdn.com/at.svg
+Austrália,https://flagcdn.com/au.svg
+Aruba,https://flagcdn.com/aw.svg
+Ilhas Aland,https://flagcdn.com/ax.svg, Aland, Alanda
+Azerbaijão,https://flagcdn.com/az.svg
+Bósnia e Herzegovina,https://flagcdn.com/ba.svg
+Barbados,https://flagcdn.com/bb.svg
+Bangladesh,https://flagcdn.com/bd.svg
+Bélgica,https://flagcdn.com/be.svg
+Burquina Fasso,https://flagcdn.com/bf.svg,Burkina Faso, Burkina Fasso
+Bulgária,https://flagcdn.com/bg.svg
+Bahrein,https://flagcdn.com/bh.svg
+Burundi,https://flagcdn.com/bi.svg
+Benim,https://flagcdn.com/bj.svg
+São Bartolomeu,https://flagcdn.com/bl.svg
+Bermudas,https://flagcdn.com/bm.svg
+Brunei,https://flagcdn.com/bn.svg
+Bolívia,https://flagcdn.com/bo.svg
+Bonaire,https://flagcdn.com/bq.svg
+Brasil,https://flagcdn.com/br.svg
+Bahamas,https://flagcdn.com/bs.svg
+Butão,https://flagcdn.com/bt.svg
+Botswana,https://flagcdn.com/bw.svg
+Bielorrússia,https://flagcdn.com/by.svg,Belarus
+Belize,https://flagcdn.com/bz.svg
+Canadá,https://flagcdn.com/ca.svg
+Ilhas Cocos,https://flagcdn.com/cc.svg,Ilhas Keeling, Ilhas dos Cocos
+República Democrática do Congo,https://flagcdn.com/cd.svg
+República Centro Africana,https://flagcdn.com/cf.svg
+República do Congo,https://flagcdn.com/cg.svg
+Suíça,https://flagcdn.com/ch.svg
+Costa do Marfim,https://flagcdn.com/ci.svg
+Ilhas Cook,https://flagcdn.com/ck.svg
+Chile,https://flagcdn.com/cl.svg
+Camarões,https://flagcdn.com/cm.svg
+China,https://flagcdn.com/cn.svg
+Colômbia,https://flagcdn.com/co.svg
+Costa Rica,https://flagcdn.com/cr.svg
+Cuba,https://flagcdn.com/cu.svg
+Cabo Verde,https://flagcdn.com/cv.svg
+Curaçau,https://flagcdn.com/cw.svg
+Ilha Christmas,https://flagcdn.com/cx.svg
+Chipre,https://flagcdn.com/cy.svg
+Chéquia,https://flagcdn.com/cz.svg, Tchequia, República Tcheca, República Checa
+Alemanha,https://flagcdn.com/de.svg
+Djibouti,https://flagcdn.com/dj.svg
+Dinamarca,https://flagcdn.com/dk.svg
+Dominica,https://flagcdn.com/dm.svg
+República Dominicana,https://flagcdn.com/do.svg
+Argélia,https://flagcdn.com/dz.svg
+Equador,https://flagcdn.com/ec.svg
+Estônia,https://flagcdn.com/ee.svg
+Egito,https://flagcdn.com/eg.svg
+Saara Ocidental,https://flagcdn.com/eh.svg
+Eritreia,https://flagcdn.com/er.svg
+Espanha,https://flagcdn.com/es.svg
+Etiópia,https://flagcdn.com/et.svg
+União Europeia,https://flagcdn.com/eu.svg
+Finlândia,https://flagcdn.com/fi.svg
+Fiji,https://flagcdn.com/fj.svg
+Ilhas Malvinas,https://flagcdn.com/fk.svg
+Estados Federados da Micronésia,https://flagcdn.com/fm.svg
+Ilhas Feroe,https://flagcdn.com/fo.svg
+França,https://flagcdn.com/fr.svg
+Gabão,https://flagcdn.com/ga.svg
+Reino Unido,https://flagcdn.com/gb.svg
+Inglaterra,https://flagcdn.com/gb-eng.svg
+Irlanda do Norte,https://flagcdn.com/gb-nir.svg
+Escócia,https://flagcdn.com/gb-sct.svg
+País de Gales,https://flagcdn.com/gb-wls.svg
+Granada,https://flagcdn.com/gd.svg
+Geórgia,https://flagcdn.com/ge.svg
+Guiana Francesa,https://flagcdn.com/gf.svg
+Guernsey,https://flagcdn.com/gg.svg
+Gana,https://flagcdn.com/gh.svg
+Gibraltar,https://flagcdn.com/gi.svg
+Gronelândia,https://flagcdn.com/gl.svg, Groenlândia
+Gâmbia,https://flagcdn.com/gm.svg
+Guiné,https://flagcdn.com/gn.svg
+Guadalupe,https://flagcdn.com/gp.svg
+Guiné Equatorial,https://flagcdn.com/gq.svg
+Grécia,https://flagcdn.com/gr.svg
+Ilhas Geórgia do Sul e Sandwich do Sul,https://flagcdn.com/gs.svg
+Guatemala,https://flagcdn.com/gt.svg
+Guam,https://flagcdn.com/gu.svg
+Guiné Bissau,https://flagcdn.com/gw.svg
+Guiana,https://flagcdn.com/gy.svg
+Hong Kong,https://flagcdn.com/hk.svg
+Honduras,https://flagcdn.com/hn.svg
+Croácia,https://flagcdn.com/hr.svg
+Haiti,https://flagcdn.com/ht.svg
+Hungria,https://flagcdn.com/hu.svg
+Indonésia,https://flagcdn.com/id.svg
+Irlanda,https://flagcdn.com/ie.svg
+Israel,https://flagcdn.com/il.svg
+Ilha de Man,https://flagcdn.com/im.svg
+Índia,https://flagcdn.com/in.svg
+Território Britânico do Oceano Índico,https://flagcdn.com/io.svg
+Iraque,https://flagcdn.com/iq.svg
+Irã,https://flagcdn.com/ir.svg
+Islândia,https://flagcdn.com/is.svg
+Itália,https://flagcdn.com/it.svg
+Jersey,https://flagcdn.com/je.svg
+Jamaica,https://flagcdn.com/jm.svg
+Jordânia,https://flagcdn.com/jo.svg
+Japão,https://flagcdn.com/jp.svg
+Quênia,https://flagcdn.com/ke.svg
+Quirguistão,https://flagcdn.com/kg.svg
+Camboja,https://flagcdn.com/kh.svg
+Kiribati,https://flagcdn.com/ki.svg
+Comores,https://flagcdn.com/km.svg
+São Cristóvão e Neves,https://flagcdn.com/kn.svg
+Coreia do Norte,https://flagcdn.com/kp.svg
+Coreia do Sul,https://flagcdn.com/kr.svg
+Kuwait,https://flagcdn.com/kw.svg
+Ilhas Cayman,https://flagcdn.com/ky.svg
+Cazaquistão,https://flagcdn.com/kz.svg
+Laos,https://flagcdn.com/la.svg
+Líbano,https://flagcdn.com/lb.svg
+Santa Lúcia,https://flagcdn.com/lc.svg
+Liechtenstein,https://flagcdn.com/li.svg
+Sri Lanka,https://flagcdn.com/lk.svg
+Libéria,https://flagcdn.com/lr.svg
+Lesoto,https://flagcdn.com/ls.svg
+Lituânia,https://flagcdn.com/lt.svg
+Luxemburgo,https://flagcdn.com/lu.svg
+Letônia,https://flagcdn.com/lv.svg
+Líbia,https://flagcdn.com/ly.svg
+Marrocos,https://flagcdn.com/ma.svg
+Mônaco,https://flagcdn.com/mc.svg
+Moldávia,https://flagcdn.com/md.svg
+Montenegro,https://flagcdn.com/me.svg
+Madagáscar,https://flagcdn.com/mg.svg
+Ilhas Marshall,https://flagcdn.com/mh.svg
+Macedônia do Norte,https://flagcdn.com/mk.svg
+Mali,https://flagcdn.com/ml.svg
+Myanmar,https://flagcdn.com/mm.svg
+Mongólia,https://flagcdn.com/mn.svg
+Macau,https://flagcdn.com/mo.svg
+Ilhas Marianas Setentrionais,https://flagcdn.com/mp.svg
+Martinica,https://flagcdn.com/mq.svg
+Mauritânia,https://flagcdn.com/mr.svg
+Monserrate,https://flagcdn.com/ms.svg,Montserrat
+Malta,https://flagcdn.com/mt.svg
+Maurícia,https://flagcdn.com/mu.svg,Maurício
+Maldivas,https://flagcdn.com/mv.svg
+Malawi,https://flagcdn.com/mw.svg
+México,https://flagcdn.com/mx.svg
+Malásia,https://flagcdn.com/my.svg
+Moçambique,https://flagcdn.com/mz.svg
+Namíbia,https://flagcdn.com/na.svg
+Nova Caledônia,https://flagcdn.com/nc.svg
+Níger,https://flagcdn.com/ne.svg
+Ilha Norfolk,https://flagcdn.com/nf.svg
+Nigéria,https://flagcdn.com/ng.svg
+Nicarágua,https://flagcdn.com/ni.svg
+Países Baixos,https://flagcdn.com/nl.svg
+Noruega,https://flagcdn.com/no.svg
+Nepal,https://flagcdn.com/np.svg
+Nauru,https://flagcdn.com/nr.svg
+Niue,https://flagcdn.com/nu.svg
+Nova Zelândia,https://flagcdn.com/nz.svg
+Omã,https://flagcdn.com/om.svg
+Panamá,https://flagcdn.com/pa.svg
+Peru,https://flagcdn.com/pe.svg
+Polinésia Francesa,https://flagcdn.com/pf.svg
+Papua Nova Guiné,https://flagcdn.com/pg.svg
+Filipinas,https://flagcdn.com/ph.svg
+Paquistão,https://flagcdn.com/pk.svg
+Polônia,https://flagcdn.com/pl.svg
+São Pedro e Miquelão,https://flagcdn.com/pm.svg
+Ilhas Pitcairn,https://flagcdn.com/pn.svg
+Porto Rico,https://flagcdn.com/pr.svg
+Estado da Palestina,https://flagcdn.com/ps.svg
+Portugal,https://flagcdn.com/pt.svg
+Palau,https://flagcdn.com/pw.svg
+Paraguai,https://flagcdn.com/py.svg
+Catar,https://flagcdn.com/qa.svg
+Reunião,https://flagcdn.com/re.svg
+Romênia,https://flagcdn.com/ro.svg
+Sérvia,https://flagcdn.com/rs.svg
+Rússia,https://flagcdn.com/ru.svg
+Ruanda,https://flagcdn.com/rw.svg
+Arábia Saudita,https://flagcdn.com/sa.svg
+Ilhas Salomão,https://flagcdn.com/sb.svg
+Seicheles,https://flagcdn.com/sc.svg
+Sudão,https://flagcdn.com/sd.svg
+Suécia,https://flagcdn.com/se.svg
+Singapura,https://flagcdn.com/sg.svg
+Eslovénia,https://flagcdn.com/si.svg
+Eslováquia,https://flagcdn.com/sk.svg
+Serra Leoa,https://flagcdn.com/sl.svg
+San Marino,https://flagcdn.com/sm.svg
+Senegal,https://flagcdn.com/sn.svg
+Somália,https://flagcdn.com/so.svg
+Suriname,https://flagcdn.com/sr.svg
+Sudão do Sul,https://flagcdn.com/ss.svg
+São Tomé e Príncipe,https://flagcdn.com/st.svg
+El Salvador,https://flagcdn.com/sv.svg
+São Martinho,https://flagcdn.com/sx.svg, Sint Maarten
+Síria,https://flagcdn.com/sy.svg
+Essuatíni,https://flagcdn.com/sz.svg
+Ilhas Turcas e Caicos,https://flagcdn.com/tc.svg
+Chade,https://flagcdn.com/td.svg
+Terras Austrais e Antárticas Francesas,https://flagcdn.com/tf.svg
+Togo,https://flagcdn.com/tg.svg
+Tailândia,https://flagcdn.com/th.svg
+Tajiquistão,https://flagcdn.com/tj.svg
+Toquelau,https://flagcdn.com/tk.svg
+Timor Leste,https://flagcdn.com/tl.svg
+Turquemenistão,https://flagcdn.com/tm.svg
+Tunísia,https://flagcdn.com/tn.svg
+Tonga,https://flagcdn.com/to.svg
+Turquia,https://flagcdn.com/tr.svg
+Trindade e Tobago,https://flagcdn.com/tt.svg,Trindad e Tobago, Trinidade e Tobago, Trinidad e Tobago
+Tuvalu,https://flagcdn.com/tv.svg
+Taiwan,https://flagcdn.com/tw.svg
+Tanzânia,https://flagcdn.com/tz.svg
+Ucrânia,https://flagcdn.com/ua.svg
+Uganda,https://flagcdn.com/ug.svg
+Estados Unidos,https://flagcdn.com/us.svg,EUA
+Uruguai,https://flagcdn.com/uy.svg
+Uzbequistão,https://flagcdn.com/uz.svg
+Vaticano,https://flagcdn.com/va.svg
+São Vicente e Granadinas,https://flagcdn.com/vc.svg
+Venezuela,https://flagcdn.com/ve.svg
+Ilhas Virgens Britânicas,https://flagcdn.com/vg.svg
+Ilhas Virgens Americanas,https://flagcdn.com/vi.svg
+Vietnã,https://flagcdn.com/vn.svg
+Vanuatu,https://flagcdn.com/vu.svg
+Wallis e Futuna,https://flagcdn.com/wf.svg
+Samoa,https://flagcdn.com/ws.svg
+Kosovo,https://flagcdn.com/xk.svg
+Iémen,https://flagcdn.com/ye.svg
+Mayotte,https://flagcdn.com/yt.svg
+África do Sul,https://flagcdn.com/za.svg
+Zâmbia,https://flagcdn.com/zm.svg
+Zimbabwe,https://flagcdn.com/zw.svg

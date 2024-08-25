@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flag Quiz</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div id="main-menu" class="menu-container">
+        <h1>Flag Quiz</h1>
+        <div class="mode-selection">
+            <button id="normal-mode-btn">🧠Train Mode</button>
+            <button id="streak-mode-btn">🔥Streak Mode</button>
+        </div>
+        <div class="language-dropdown">
+            <select id="language-select">
+                <option value="en">English</option>
+                <option value="pt">Portuguese</option>
+                <option value="es">Spanish</option>
+                <option value="fr">French</option>
+            </select>
+        </div>
+    </div>
+
+    <div id="quiz-container" class="menu-container">
+        <button id="back-to-menu-btn" class="back-btn">Back to Menu</button>
+        <div class="quiz-content">
+            <img id="flag-img" src="" alt="Flag Image">
+            <input type="text" id="answer-input" placeholder="Enter the country name">
+            <div id="result"></div>
+        </div>
+    </div>
+
+
+    <script src="script.js"></script>
+</body>
+</html>
